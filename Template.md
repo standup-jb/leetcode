@@ -1,14 +1,14 @@
 #
-##Problems:
+## Problems:
 
-##Note: 
+## Note: 
 
-##Example:
+## Example:
 >Input: </br>
 Output:
 
 
-##Solution:
+## Solution:
 ``` java
 
 
